@@ -3,7 +3,8 @@ GGNet is a new convolutional neural network presented at ICLR 2015 (Internationa
 
 # Reuse of model parameters and storage of models
 Weight download link: www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz
-
 Classification file download link: www.cs.toronto.edu/~frossard/vgg16/imagenet_classes.py
-
 Model files: the above represents saving to the VGG16_model.py script
+
+# Reference Links
+https://maxin.blog.csdn.net/article/details/89438995
